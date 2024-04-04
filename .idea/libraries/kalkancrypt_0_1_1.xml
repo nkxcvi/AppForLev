@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="kalkancrypt-0.1.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/OneDrive - ТОО Казахстанская марка/Рабочий стол/Кайрат/LibsForJavaNCLAYER/kalkancrypt-0.1.1.jar!/" />
+      <root url="jar://$USER_HOME$/OneDrive - ТОО Казахстанская марка/Рабочий стол/Кайрат/LibsForJavaNCLAYER/kalkancrypt_xmldsig-0.1.jar!/" />
+      <root url="jar://$USER_HOME$/OneDrive - ТОО Казахстанская марка/Рабочий стол/Кайрат/LibsForJavaNCLAYER/knca_provider_util-0.7.jar!/" />
+      <root url="jar://$USER_HOME$/OneDrive - ТОО Казахстанская марка/Рабочий стол/Кайрат/LibsForJavaNCLAYER/xmlsec-1.4.4.jar!/" />
+      <root url="jar://$USER_HOME$/OneDrive - ТОО Казахстанская марка/Рабочий стол/Кайрат/LibsForJavaNCLAYER/commons-logging-1.1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
